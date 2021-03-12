@@ -9,3 +9,6 @@ Random String / int / float / double Generator
         int ranInt = RandomNum.getRandomInt(1,100);
         float ranFloat = RandomNum.getRandomFloat(1.0F,100.0F);
         double ranDouble = RandomNum.getRandomDouble(1,100);
+
+
+<img src="https://github.com/sad-adnan/random/blob/main/demo.jpeg?raw=true" height="300px" width="150px"/>
