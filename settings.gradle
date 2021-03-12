@@ -1,0 +1,3 @@
+include ':RandomGenerator'
+include ':app'
+rootProject.name = "RandomString"
